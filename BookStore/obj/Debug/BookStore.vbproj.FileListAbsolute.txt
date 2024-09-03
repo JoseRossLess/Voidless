@@ -1,0 +1,12 @@
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\bin\Debug\BookStore.exe
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\bin\Debug\BookStore.pdb
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\bin\Debug\BookStore.xml
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.vbproj.AssemblyReference.cache
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.Resources.resources
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.vbproj.GenerateResource.cache
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.vbproj.CoreCompileInputs.cache
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.exe
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.xml
+C:\Users\endle\Source\Repos\JoseRossLess\Voidless\BookStore\obj\Debug\BookStore.pdb
